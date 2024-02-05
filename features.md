@@ -1,4 +1,4 @@
-# New Project Details
+# New Project Details - [ Chat Application ]
 
 ## technologies used
 - React
@@ -10,6 +10,7 @@
 ## todo
 - [ ] documentation for this project
 - [ ] admin panel
+- [ ] user login via otp -> phone no required
 
 ## Medhodologi used for project
 - Scrum 
