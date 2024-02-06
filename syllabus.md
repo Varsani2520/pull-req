@@ -14,7 +14,7 @@
 - [x] 3. Servelet API and Overview
 - [ ] 4. Java Server Pages
 
-### CRYPTOGRAPHY
+### CRYPTOGRAPHY --> [Completed]
 - [x] 1. Introduction
 - [x] 2. Stream Cipher and Block Cipher
 - [x] 3. Multiple Encryption and Triple DES
