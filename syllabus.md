@@ -3,10 +3,10 @@
 ## subjects                                    
 
 ### WEB PROGRAMMING
-- [ ] 1. Introduction to WEB                         - D
-- [ ] 2. Web Design                                  - D
+- [x] 1. Introduction to WEB                         
+- [x] 2. Web Design                                  
 - [x] 3. Basic of HTML and CSS
-- [ ] 4. Client Side Scripting using JavaScript
+- [ ] 4. Client Side Scripting using JavaScript    - D
 
 ### ADVANCE JAVA
 - [ ] 1. Java Networking
@@ -21,8 +21,8 @@
 - [x] 4. Public key Cryptosysytem with Applications
 
 ### THEORY OF COMPUTATION
-- [ ] 1. Review of Mathematicxal Theory              - R
-- [ ] 2. Regular Language
+- [x] 1. Review of Mathematicxal Theory              
+- [ ] 2. Regular Language                            - R
 - [ ] 3. Context Free Grammer
 - [ ] 4. Pushdown Automata, CFL and NCFL
 
