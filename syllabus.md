@@ -2,17 +2,17 @@
 
 ## subjects                                    
 
-### WEB PROGRAMMING
+### WEB PROGRAMMING --> [Completed]
 - [x] 1. Introduction to WEB                         
 - [x] 2. Web Design                                  
 - [x] 3. Basic of HTML and CSS
-- [ ] 4. Client Side Scripting using JavaScript    - D
+- [x] 4. Client Side Scripting using JavaScript    
 
 ### ADVANCE JAVA
-- [ ] 1. Java Networking
+- [x] 1. Java Networking
 - [x] 2. JDBC Programming
 - [x] 3. Servelet API and Overview
-- [ ] 4. Java Server Pages
+- [ ] 4. Java Server Pages                          - D
 
 ### CRYPTOGRAPHY --> [Completed]
 - [x] 1. Introduction
