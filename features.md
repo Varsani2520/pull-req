@@ -6,6 +6,7 @@
 - Node
 - Express
 - Mongo
+- Socket.io -> real time chat
 
 ## todo
 - [ ] documentation for this project
