@@ -8,11 +8,11 @@
 - [x] 3. Basic of HTML and CSS
 - [x] 4. Client Side Scripting using JavaScript    
 
-### ADVANCE JAVA
+### ADVANCE JAVA --> [Completed]
 - [x] 1. Java Networking
 - [x] 2. JDBC Programming
 - [x] 3. Servelet API and Overview
-- [ ] 4. Java Server Pages                          - D
+- [x] 4. Java Server Pages                        
 
 ### CRYPTOGRAPHY --> [Completed]
 - [x] 1. Introduction
@@ -27,7 +27,7 @@
 - [ ] 4. Pushdown Automata, CFL and NCFL
 
 ### DATA ANALYSIS AND VISUALIZATIONS
-- [ ] 1. Math, Probability and Statistical Modeling
+- [ ] 1. Math, Probability and Statistical Modeling - D
 - [ ] 2. Using Clustring to Subdivide Data
 - [ ] 3. Modeling Instance
 - [ ] 4. Principle of  Data Visualization Design
