@@ -2,6 +2,10 @@
 
 ## subjects                                    
 
+###  PRACTICALS
+- [ ] PRACTICAL JAVA
+- [ ] PRACTICAL WEB PROGRAMMINGS
+
 ### WEB PROGRAMMING --> [Completed]
 - [x] 1. Introduction to WEB                         
 - [x] 2. Web Design                                  
