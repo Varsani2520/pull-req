@@ -16,7 +16,10 @@
 - [x] 1. Java Networking
 - [x] 2. JDBC Programming
 - [x] 3. Servelet API and Overview
-- [x] 4. Java Server Pages                        
+- [x] 4. Java Server Pages
+- [x] 5. Java Server Faces
+- [x] 6. Hibernate
+- [x] 7. Java Spring                    
 
 
 ### CRYPTOGRAPHY --> [Completed]
