@@ -10,7 +10,10 @@
 - [x] 1. Introduction to WEB                         
 - [x] 2. Web Design                                  
 - [x] 3. Basic of HTML and CSS
-- [x] 4. Client Side Scripting using JavaScript    
+- [x] 4. Client Side Scripting using JavaScript
+- [x] 5. Intro to PHP
+- [x] 6. Working with MySQL
+- [x] 7. AJAX and JQuery
 
 ### ADVANCE JAVA --> [Completed]
 - [x] 1. Java Networking
