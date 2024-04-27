@@ -3,8 +3,8 @@
 ## subjects                                    
 
 ###  PRACTICALS
-- [ ] PRACTICAL JAVA
-- [ ] PRACTICAL WEB PROGRAMMINGS
+- [x] PRACTICAL JAVA
+- [x] PRACTICAL WEB PROGRAMMINGS
 
 ### WEB PROGRAMMING --> [Completed]
 - [x] 1. Introduction to WEB                         
@@ -38,7 +38,7 @@
 - [ ] 4. Pushdown Automata, CFL and NCFL
 
 ### DATA ANALYSIS AND VISUALIZATIONS
-- [ ] 1. Math, Probability and Statistical Modeling - D
-- [ ] 2. Using Clustring to Subdivide Data
-- [ ] 3. Modeling Instance
+- [x] 1. Math, Probability and Statistical Modeling - D
+- [x] 2. Using Clustring to Subdivide Data
+- [x] 3. Modeling Instance
 - [ ] 4. Principle of  Data Visualization Design
