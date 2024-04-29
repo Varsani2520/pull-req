@@ -24,8 +24,7 @@
 - [x] 6. Hibernate
 - [x] 7. Java Spring                    
 
-
-### CRYPTOGRAPHY --> [Completed]
+### CRYPTOGRAPHY
 - [x] 1. Introduction
 - [x] 2. Stream Cipher and Block Cipher
 - [x] 3. Multiple Encryption and Triple DES
@@ -33,12 +32,14 @@
 
 ### THEORY OF COMPUTATION
 - [x] 1. Review of Mathematicxal Theory              
-- [ ] 2. Regular Language                            - R
+- [ ] 2. Regular Language                           
 - [ ] 3. Context Free Grammer
 - [ ] 4. Pushdown Automata, CFL and NCFL
 
-### DATA ANALYSIS AND VISUALIZATIONS
-- [x] 1. Math, Probability and Statistical Modeling - D
+### DATA ANALYSIS AND VISUALIZATIONS --> [Completed]
+- [x] 1. Math, Probability and Statistical Modeling
 - [x] 2. Using Clustring to Subdivide Data
 - [x] 3. Modeling Instance
-- [ ] 4. Principle of  Data Visualization Design
+- [x] 4. Principle of  Data Visualization Design
+- [x] 5. Web based applicatoin for visualization design
+- [x] 6. Data science for Driving growth in E-Commerce
