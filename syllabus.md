@@ -32,7 +32,7 @@
 
 ### THEORY OF COMPUTATION
 - [x] 1. Review of Mathematicxal Theory              
-- [ ] 2. Regular Language                           
+- [x] 2. Regular Language                           
 - [ ] 3. Context Free Grammer
 - [ ] 4. Pushdown Automata, CFL and NCFL
 
