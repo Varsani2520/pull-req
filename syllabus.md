@@ -33,7 +33,7 @@
 ### THEORY OF COMPUTATION
 - [x] 1. Review of Mathematicxal Theory              
 - [x] 2. Regular Language                           
-- [ ] 3. Context Free Grammer
+- [x] 3. Context Free Grammer
 - [ ] 4. Pushdown Automata, CFL and NCFL
 
 ### DATA ANALYSIS AND VISUALIZATIONS --> [Completed]
