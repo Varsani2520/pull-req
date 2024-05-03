@@ -34,7 +34,8 @@
 - [x] 1. Review of Mathematicxal Theory              
 - [x] 2. Regular Language                           
 - [x] 3. Context Free Grammer
-- [ ] 4. Pushdown Automata, CFL and NCFL
+- [x] 4. Pushdown Automata, CFL and NCFL
+- [ ] 5. 
 
 ### DATA ANALYSIS AND VISUALIZATIONS --> [Completed]
 - [x] 1. Math, Probability and Statistical Modeling
