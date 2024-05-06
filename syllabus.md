@@ -30,12 +30,12 @@
 - [x] 3. Multiple Encryption and Triple DES
 - [x] 4. Public key Cryptosysytem with Applications
 
-### THEORY OF COMPUTATION
+### THEORY OF COMPUTATION - [x] repeat 
 - [x] 1. Review of Mathematicxal Theory              
 - [x] 2. Regular Language                           
 - [x] 3. Context Free Grammer
 - [x] 4. Pushdown Automata, CFL and NCFL
-- [ ] 5. 
+- [x] 5. Turing machin
 
 ### DATA ANALYSIS AND VISUALIZATIONS --> [Completed]
 - [x] 1. Math, Probability and Statistical Modeling
