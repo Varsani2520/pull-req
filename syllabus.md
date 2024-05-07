@@ -30,7 +30,7 @@
 - [x] 3. Multiple Encryption and Triple DES
 - [x] 4. Public key Cryptosysytem with Applications
 
-### THEORY OF COMPUTATION - [x] repeat 
+### THEORY OF COMPUTATION - [x] repeat  -- completed
 - [x] 1. Review of Mathematicxal Theory              
 - [x] 2. Regular Language                           
 - [x] 3. Context Free Grammer
