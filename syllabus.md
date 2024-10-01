@@ -4,7 +4,7 @@
 
 ## AI
 - [x] CHEP 1 
-- [] CHEP 2 
+- [x] CHEP 2 
 - [] CHEP 3 
 - [] CHEP 4 
 - [] CHEP 5 
