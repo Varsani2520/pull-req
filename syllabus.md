@@ -22,4 +22,4 @@
 - [x] CHEP 5
 - [x] CHEP 6
 - [x] CHEP 7
-- [] CHEP 8
+- [x] CHEP 8
