@@ -23,3 +23,12 @@
 - [x] CHEP 6
 - [x] CHEP 7
 - [x] CHEP 8
+
+## BDA
+- [x] CHEP 1
+- [] CHEP 2
+- [] CHEP 3
+- [] CHEP 4
+- [] CHEP 5
+- [] CHEP 6
+- [] CHEP 7
