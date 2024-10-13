@@ -26,9 +26,9 @@
 
 ## BDA
 - [x] CHEP 1
-- [] CHEP 2
-- [] CHEP 3
-- [] CHEP 4
-- [] CHEP 5
-- [] CHEP 6
+- [x] CHEP 2
+- [x] CHEP 3
+- [x] CHEP 4
+- [x] CHEP 5
+- [x] CHEP 6
 - [] CHEP 7
