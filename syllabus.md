@@ -32,3 +32,8 @@
 - [x] CHEP 5
 - [x] CHEP 6
 - [] CHEP 7
+
+## DS
+- [x] CHEP 1
+- [x] CHEP 2
+- [x] CHEP 3
